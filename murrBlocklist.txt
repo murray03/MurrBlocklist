@@ -1,9 +1,6 @@
 !
-! Title: AdGuard DNS filter
-
+! Title: murrBlocklist.txt
 !
 ! Compiled by Murr
 !
-||*https://www.inmarket.com/?im_token=aj05NDg1YjI1Yi0xMTdjLTQ1N2UtYjhiNy1lYjlkM2RmMGNlNGYmbz0yMTQxMzImYz00NzE0MjYmcj0zNjQ0ODgmbD0xMzA3MDU0Mjk2JnBtcD0wJno9MTc2MzY4Nzc4Mjg2NiZxPTAmeT0wMzI5NDcwOTY0NDEmYnA9OTAmZT05NiZ2PTg2NDkmbj00NjExNiZ4PWZhbHNlJms9MA
-
-||*https://www.inmarket.com
+||*www.inmarket.com^
